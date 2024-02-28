@@ -1,0 +1,127 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import ContactCTA from "../components/ContactCTA.astro";
+import Hero from "../components/Hero.astro";
+---
+
+<BaseLayout
+  title="About | Emilie Clain"
+  description="About Jeanine White Lorem Ipsum"
+>
+  <div class="stack gap-20">
+    <main class="wrapper about">
+      <Hero title="About" tagline="Découvrez mon parcours et mes compétences">
+        <img
+          width="1553"
+          height="873"
+          src="/assets/photoBureau.jpg"
+          alt="Jeanine White at work with a colleague"
+        />
+      </Hero>
+
+      <section>
+        <h2 class="section-title">Background</h2>
+        <div class="content">
+          <p>
+            Initialement formée dans le domaine paramédical, j'ai exercé pendant
+            deux décennies en tant qu'aide-soignante avant de m'engager dans une
+            transition professionnelle inspirante vers le développement web
+          </p>
+          <p>
+            Animée par une quête d'alignement avec mes convictions profondes,
+            cette métamorphose symbolise ma voloté ardente de fusionner ma
+            passion pour l'assistance aux autres avec mon penchant naturel pour
+            la créativité.
+          </p>
+          <p>
+            Aujourd'hui, je me présente avec une expertise forgée par ces deux
+            vies professionnelles, prête à offrir un travail empreint
+            d'excellence, témoignant ainsi de mon engagement envers VOTRE
+            PROJET.
+          </p>
+        </div>
+      </section>
+      <section>
+        <h2 class="section-title">Education</h2>
+        <div class="content">
+          <p>
+            Bac+2 Titre professionnel développeuse web et web mobile (RNCP),
+            Diplôme Studi Graduate développeur Front End, Certification Bloc
+            Front End, Certification Bloc Back End, Certification Spécialisation
+            Front End UX design
+          </p>
+        </div>
+      </section>
+      <section>
+        <h2 class="section-title">Skills</h2>
+        <div class="content">
+          <p>
+            Créative, Autonome, Apprendre, Résolution de problèmes, Polyvalente,
+            multi potentiel.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <ContactCTA />
+  </div>
+</BaseLayout>
+
+<style>
+  .about {
+    display: flex;
+    flex-direction: column;
+    gap: 3.5rem;
+  }
+
+  img {
+    margin-top: 1.5rem;
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow-md);
+  }
+
+  section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    color: var(--gray-200);
+  }
+
+  .section-title {
+    grid-column-start: 1;
+    font-size: var(--text-xl);
+    color: var(--gray-0);
+  }
+
+  .content {
+    grid-column: 2 / 4;
+  }
+
+  .content :global(a) {
+    text-decoration: 1px solid underline transparent;
+    text-underline-offset: 0.25em;
+    transition: text-decoration-color var(--theme-transition);
+  }
+
+  .content :global(a:hover),
+  .content :global(a:focus) {
+    text-decoration-color: currentColor;
+  }
+
+  @media (min-width: 50em) {
+    .about {
+      display: grid;
+      grid-template-columns: 1fr 60% 1fr;
+    }
+
+    .about > :global(:first-child) {
+      grid-column-start: 2;
+    }
+
+    section {
+      display: contents;
+      font-size: var(--text-lg);
+    }
+  }
+</style>
