@@ -14,8 +14,7 @@ tags:
 ## Cuisinea
 
 > Conception :
-
-Vous pouvez accéder au site en cliquant sur le lien suivant, <a href="https://cuisinea.alwaysdata.net">"Site Cuisinea"</a>.
+> Vous pouvez accéder au site en cliquant sur le lien suivant, <a href="https://cuisinea.alwaysdata.net">"Site Cuisinea"</a>.
 
 Mon projet de site de recettes de cuisine repose sur une architecture PHP prodédurale, une approche pragmatique qui privilégie le simplicité et la rapidité de développement. En utilisant cette méthode, j'ai pu structurer le code de manière logique et modulaire, ce qui facilite la maintenance et l'ajout de nouvelles fonctionnalités à l'avenir.
 
@@ -42,3 +41,5 @@ Pour les test et le déploiement de mon site de recettes de cuisine, j'ai opté 
 #### Remerciement
 
 Je remercie Anthony Laplane mon professeur qui est à l'origine de ce projet.
+
+> Écrivez-moi !
