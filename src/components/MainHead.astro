@@ -4,17 +4,27 @@ import "../styles/global.css";
 interface Props {
   title?: string | undefined;
   description?: string | undefined;
+  keywords?: string | undefined;
+  author?: string | undefined;
+  image?: string | undefined;
+  url?: string | undefined;
 }
 
 const {
-  title = "Emilie Clain - Développeuse FullSatck",
-  description = "Portfolio d'Emilie Clain, développeuse FullStack freelance",
+  title = "Emilie Clain - Développeuse FullSatck Freelance à Béziers | webOara",
+  description = "webOara - Portfolio d'Emilie Clain, développeuse web et mobile Fullstack freelance basée secteur Béziers. Spécialiséé en développement à distance, bilingue français/anglais, prête à collaborer avec des clients internationaux. ",
+  keywords = "webOara, Développeuse web, Développeuse mobile, Fullstack, Freelance, Béziers, Travail à distance, Développement web, Développement mobile, Bilingue anglais, Clients internationaux",
+  author = "Emilie Clain",
+  image = "/assets/backgrounds/photoMoi.jpg",
+  url = "http://localhost:4321",
 } = Astro.props;
 ---
 
 <meta charset="UTF-8" />
 <meta name="description" property="og:description" content={description} />
 <meta name="viewport" content="width=device-width" />
+<meta name="keywords" content={keywords} />
+<meta name="author" content={author} />
 <meta name="generator" content={Astro.generator} />
 <title>{title}</title>
 
