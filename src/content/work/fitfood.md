@@ -1,7 +1,7 @@
 ---
 title: FitFood
 publishDate: 2019-10-02 00:00:00
-img: /assets/CaptureEcranFitfoodpng.png
+img: /portfolio/assets/CaptureEcranFitfoodpng.png
 img_alt: Capture décran du site de salle de sport FitFood
 description: |
   Concept sportif alliez entraînement et nutrition en un seul endroit avec FitFood.

@@ -1,7 +1,7 @@
 ---
 title: JEU TETRIS
 publishDate: 2023-07-18 00:00:00
-img: /assets/Tetris.png
+img: /portfolio/assets/Tetris.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
   Une version ordinateur du jeu Tetris classique et addictif.
