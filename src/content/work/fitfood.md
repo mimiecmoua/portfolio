@@ -2,7 +2,7 @@
 title: FitFood
 publishDate: 2019-10-02 00:00:00
 img: /assets/CaptureEcranFitfoodpng.png
-img_alt: Soft pink and baby blue water ripples together in a subtle texture.
+img_alt: Capture décran du site de salle de sport FitFood
 description: |
   Concept sportif alliez entraînement et nutrition en un seul endroit avec FitFood.
 tags:

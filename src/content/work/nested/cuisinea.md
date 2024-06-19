@@ -2,7 +2,7 @@
 title: Site de recettes de cuisine
 publishDate: 2023-07-18 00:00:00
 img: /assets/A-portfolio-cuisinea.png
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Capture d'écran du site Cuisinea
 description: |
   J'ai créé un site de recettes de cuisine permettant aux utilisateurs de s'inscrire et d'ajouter leurs recettes préférées, afin d'obtenir une expérience interactive et collaborative. Ce site offre une véritable source d'inspiration pour tous les amateurs de cuisine. Ce site s'adapte à toutes tailles d'écran.
 tags:
@@ -27,8 +27,6 @@ Pour l'aspect visuel et la mise en page du site, j'ai intégré Bootstrap, un fr
 Pour gérer les intéractions avec la base de données, j'ai fais appel à PDO (PHP Data Objects), une extension PHP qui fournit une interface orientée objet pour travailler avec différents types de bases de données. PDO m'a permis d'établir une connexion sécurisée à la base de données et d'exécuter des requêtes SQL de manière fiable, en garantissant le protection contre les attaques par injection SQL et en assurant la portabilité du code entre différent systèmes de gestion de base de données.
 
 PDO, c'est comme un tracteur polyglotte qui permet à votre site web de communiquer aisément avec différents langues de base de données, assurant ainsi une compréhension harmonieuse et sécurisée entre votre application et le système de stockage des données.
-
-Cliquez sur le lein suivant pour découvrir un extrait du code utilisant PDO, <a href="https://github.com/mimiecmoua/Cuisinea/blob/master/lib/user.php">"Code source PDO"</a>
 
 ### Gestion des utilisateurs
 

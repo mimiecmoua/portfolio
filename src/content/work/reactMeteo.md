@@ -2,7 +2,7 @@
 title: Site d'application météo
 publishDate: 2019-12-01 00:00:00
 img: /assets/AcptureReactMeteo.png
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Capture d'écran de l'application de météo
 description: |
   Un application de météo SPA (pour Single Page Application) et une application, composée de HTML, CSS et Javascript, qui ne contient qu'une seule page. Élaborée avec le Framework React.js.
 tags:
@@ -30,7 +30,7 @@ J'ai déployé cette application météo sur GitHub Pages, ce qui permet de la r
 
 #### Remerciement
 
-Je souhaite remercier Studi/Digital Campus pour m'avoir aidé à réaliser ce projet.
+Je souhaite remercier Studi/Digital Campus <a href="https://www.studi.com/fr">"Accéder au site"</a> pour m'avoir aidé à réaliser ce projet.
 
 > Envie de me partager vos idées ?
 > Écrivez-moi !

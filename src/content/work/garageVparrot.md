@@ -2,7 +2,7 @@
 title: Site de garage automobile
 publishDate: 2023-07-18 00:00:00
 img: /assets/AAAA.PNG
-img_alt: Iridescent ripples of a bright blue and pink liquid
+img_alt: Capture d'écran du site du garage V.Parrot
 description: |
   J'ai créé pour ma soutenance un site web complet pour un garage automobile, offrant à la fois une vitrine en ligne pour les services de réparations, ainsi qu'un espace administrable pour la gestion interne de l'entreprise.
 tags:
