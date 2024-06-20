@@ -19,7 +19,7 @@ Imaginez un univers où la gastronomie japonaise rencontre l'humour décalé : b
 
 Dans la création de ce projet, j'ai utilisé des outils fondamentaux tels que HTML, Bootstrap et CSS pour façonner l'apparence et le structure du site. HTML a servi de base pour définir le contenu et la disposition des élémnets, tandis que Bootstrap à apporté des fonctionnélité de mise en page préconçues pour un design réactif et esthètique.
 
-Avec l'ajout du CSS, j'ai pu enrichir le contenu visuel en intégrant des images gratuite de qualité et libre de droits provenant de la plateforme "Freepik", ce qui a contribué à renforcer l'attait visuel et la convivialité du site.
+Avec l'ajout du CSS, j'ai pu enrichir le contenu visuel en intégrant des images gratuite de qualité et libre de droits provenant de la plateforme "Freepik", ce qui a contribué à renforcer l'attrait visuel et la convivialité du site.
 
 ### Déploiement :
 
