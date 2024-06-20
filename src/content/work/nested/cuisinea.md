@@ -28,8 +28,6 @@ Pour gérer les intéractions avec la base de données, j'ai fais appel à PDO (
 
 PDO, c'est comme un tracteur polyglotte qui permet à votre site web de communiquer aisément avec différents langues de base de données, assurant ainsi une compréhension harmonieuse et sécurisée entre votre application et le système de stockage des données.
 
-Cliquez sur le lein suivant pour découvrir un extrait du code utilisant PDO, <a href="https://github.com/mimiecmoua/Cuisinea/blob/master/lib/user.php">"Code source PDO"</a>
-
 ### Gestion des utilisateurs
 
 Grâce à cette combinaison d'outils, j'ai pu développer un site robuste et fonctionnel, permettant aux utilisateurs de sinscrire, de se connecter et de partager efficacement des données , comme l'ajout d'images ou de photos. Cela offre une expérience utilisateur fluide et agréble, faisant de ce site un outils précieux pour les amateurs de cuisine désireux d'exploiter de nouvelles saveurs et de partager leus créations culinaires avec une communauté en ligne.

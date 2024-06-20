@@ -21,6 +21,10 @@ le concept de tetris est inspiré d'un jeu de puzzle traditionnel russe appelé 
 
 Ce jeux met à l'épreuve les réflexes, le concentration et la capacité de planification des joueurs.
 
+#### Comment jouer ?
+
+Ce jeu est disponible uniquement sur ordinateur. Appuyez sur le bouton "Start" pour commencer. Lorsque le curseur descend, vous pouvez le faire pivoter avec la flèche "Haut" de votre clavier. Déplacez-le à gauche et à droite avec les flèches correspondantes. Accélérez la descente du curseur avec la flèche "Bas". Vous pouvez mettre le jeu en pause en cliquant sur le bouton "Start/Pause" et recommencer une partie en rafraîchissant la page.
+
 ### HTML5 Hyper text Markup Language
 
 Le HTML est le langage de balisage utilisé pour structurer le contenu des pages web. Il repose sur le principe fondamental des balises, qui encadrent différents éléments pour indiquer leur type et leur fonction sur la page, permettant ainsi aux navigateurs web (ex: Google Chrome, Edge) de les interpréter et de les afficher correctement pour les utlilisateurs.
@@ -47,4 +51,6 @@ Cliquez sur le lien suivant pour explorer le code JavaScript => <a href="https:/
 
 Imaginez le HTML comme la structure d'une maison, le CSS comme la peinture et la décoration qui lui donnent son style, et le JavaScript comme l'électricité qui anime les différents appareils et rend la maison fonctionnelle. De la même manière, ces langages se combinent pour créer un site web complet et interactif. Le HTML définit la structure et le contenu de la page, le CSS lui donne son aspect visuel et attrayant, tandis que le JavaScript ajoute des fonctionnalités dynamiques et interactives. C'est cette synergie entre le HTML, le CSS et le JavaScript qui donne vie à mon jeu tetris que vous visitez et lui confère son unicité et sa fonctionnalité.
 
-En somme, ce projet de création de jeu tetris illustre non seulement ma maîtrise technique en développement web, mais également à concevoir des expériences ludiques pour les utilisateurs. Je suis prête à mettre en oeuvre mon expérience pour réaliser vos projets les plus ambitieux. Contactez-moi dès aujourd'hui et ensemble, faisons de votre vision une réalité.
+En somme, ce projet de création de jeu tetris illustre non seulement ma maîtrise technique en développement web, mais également à concevoir des expériences ludiques pour les utilisateurs. Je suis prête à mettre en oeuvre mon expérience pour réaliser vos projets les plus ambitieux.
+
+> Contactez-moi dès aujourd'hui et ensemble, faisons de votre vision une réalité.
