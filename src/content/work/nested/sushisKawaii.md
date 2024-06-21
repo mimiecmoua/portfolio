@@ -1,7 +1,7 @@
 ---
 title: Sushis Kawaii
 publishDate: 2020-03-04 00:00:00
-img: /assets/SushiKawaii.png
+img: /portfolio/assets/SushiKawaii.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   J'ai développé un petit site vitrine pour un restaurant de sushis pas comme les autres !

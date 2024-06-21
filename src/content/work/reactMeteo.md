@@ -1,7 +1,7 @@
 ---
 title: Site d'application météo
 publishDate: 2019-12-01 00:00:00
-img: /assets/AcptureReactMeteo.png
+img: /portfolio/assets/AcptureReactMeteo.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   Un application de météo SPA (pour Single Page Application) et une application, composée de HTML, CSS et Javascript, qui ne contient qu'une seule page. Élaborée avec le Framework React.js.
