@@ -2,9 +2,9 @@
 title: Site d'application météo
 publishDate: 2019-12-01 00:00:00
 img: /portfolio/assets/AcptureReactMeteo.png
-img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
+img_alt: Capture d'écran de l'application météo.
 description: |
-  Un application de météo SPA (pour Single Page Application) et une application, composée de HTML, CSS et Javascript, qui ne contient qu'une seule page. Élaborée avec le Framework React.js.
+  Une application de météo SPA (pour Single Page Application) et une application, composée de HTML, CSS et JavaScript, qui ne contient qu'une seule page. Développée avec le Framework React.js.
 tags:
   - React
   - API
@@ -25,7 +25,7 @@ Cette application météo est un excellent exemple de l'utilisation de technolog
 
 #### Déploiement
 
-J'ai déployé cette application météo sur GitHub Pages, ce qui permet de la rendre accessible en ligne facilement et gratuitement. Grâce à GitHub Pages et au déploiement continu, chaque mise à jour du code, est automatiquement déployée, garantissant que l'application est toujours à jour avec les dernières fonctionnalités et corrections de bugs.
+J'ai déployé cette application météo sur GitHub Pages, ce qui permet de la rendre accessible en ligne facilement et gratuitement. Grâce à GitHub Pages et au déploiement continu, chaque mise à jour du code, est automatiquement déployée, garantissant que l'application est toujours à jour avec les dernières fonctionnalités et corrections de bug.
 <a href="https://github.com/mimiecmoua/Reactmeteo/">Code source</a>.
 
 #### Remerciement
