@@ -1,4 +1,20 @@
-# Astro Starter Kit: Portfolio
+# Portfolio de Émilie Clain
+
+Bienvenue sur mon portfolio professionnel. Je m'appelle Émilie Clain et je suis développeuse web et web mobile Fullstack Freelance. J'ai créé ce portfolio pour présenter mes compétences, mes projets et mon parcours professionnel.
+
+## À propos de moi
+
+Je suis créatrice de site web et web mobile pour mon entreprise webOara. J'ai la tête d'une scientifique et le corps d'une artiste, et je suis prête à collaborer avec des clients anglophones. Mon objectif est de fournir des solutions de création, de gestion et de business adaptées aux besoins des startups, des PME, des associations, des artistes, des agriculteurs et des artisans.
+
+## Contact
+
+- **Email**: [votre-email@example.com](mailto:votre-email@example.com)
+- **Portfolio**: [https://mimiecmoua.github.io/portfolio/](https://mimiecmoua.github.io/portfolio/)
+- **GitHub**: [mimiecmoua](https://github.com/mimiecmoua)
+
+### Astro
+
+Pour construire ce projet, j'ai choisi [Astro](https://astro.build/), un framework moderne qui permet de créer des sites statiques rapides et optimales. Astro permet de combiner différentes technologies front-end comme React, Vue, Svelte, etc., et générer du HTML statique à la fin, ce qui améliore les performances et le SEO.
 
 ```sh
 npm create astro@latest -- --template portfolio
@@ -10,7 +26,7 @@ npm create astro@latest -- --template portfolio
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+![portfolio](/portfolio/assets/Capture_ecran_portfolio.png)
 
 ## 🧞 Commands
 
@@ -28,3 +44,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+
+## Mentions légales et CGU
+
+Pour plus d'informations, veuillez consulter les [mentions légales](./assets/Mentions_Legales.pdf) et les [Conditions Générales d'Utilisation (CGU)](./assets/CGU.pdf).
