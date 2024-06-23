@@ -26,7 +26,7 @@ npm create astro@latest -- --template portfolio
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![portfolio](/portfolio/assets/Capture_ecran_portfolio.png)
+![portfolio](/portfolio/public/assets/Capture_ecran_portfolio.png)
 
 ## 🧞 Commands
 
