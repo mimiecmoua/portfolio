@@ -8,7 +8,7 @@ Je suis créatrice de site web et web mobile pour mon entreprise webOara. J'ai l
 
 ## Contact
 
-- **Email**: [votre-email@example.com](mailto:votre-email@example.com)
+- **Email**: [votre-email@example.com](mailto:weboaraa@gmail.com)
 - **Portfolio**: [https://mimiecmoua.github.io/portfolio/](https://mimiecmoua.github.io/portfolio/)
 - **GitHub**: [mimiecmoua](https://github.com/mimiecmoua)
 
