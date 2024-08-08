@@ -1,5 +1,5 @@
 ---
-title: Site de recettes de cuisine
+title: Site d'ajout de recettes de cuisine
 publishDate: 2023-07-18 00:00:00
 img: /portfolio/assets/A-portfolio-cuisinea.png
 img_alt: Capture d'écran du site de recettes de cuisine.

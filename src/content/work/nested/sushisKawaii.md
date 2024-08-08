@@ -1,5 +1,5 @@
 ---
-title: Sushi Kawaii
+title: Site vitrine
 publishDate: 2020-03-04 00:00:00
 img: /portfolio/assets/SushiKawaii.png
 img_alt: Capture d'écran du site Shushi Kawaii

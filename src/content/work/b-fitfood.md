@@ -1,5 +1,5 @@
 ---
-title: FitFood
+title: Salle de sport
 publishDate: 2019-10-02 00:00:00
 img: /portfolio/assets/CaptureEcranFitfoodpng.png
 img_alt: Capture d'écran du site FitFood.
@@ -9,6 +9,7 @@ tags:
   - Sass
   - Javascript
   - HTML
+  - PHP server
 ---
 
 ## Inspiration
