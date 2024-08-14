@@ -14,7 +14,7 @@ tags:
 
 ## Inspiration
 
-> Site web responsive Démo, cliquez sur le lien pour découvrir l'univers du concept FitFood, <a href="www.fitfood.weboara.fr">accéder au site</a>.
+> Site web responsive Démo, cliquez sur le lien pour découvrir l'univers du concept FitFood, <a href="https://fitfood.weboara.fr/">accéder au site</a>.
 
 Ce concept est né d'une idée de mon fils. À la maison, le sport est devenu une habitude et une passion que nous partageons tous les deux. En lui demandant ce qu'il aimerait avoir comme application sur son téléphone, quelque chose qui pourrait lui changer la vie, il m'a dit qu'il adorerait que la salle de sport qu'il fréquente régulièrement propose un système de repas inclus dans les services.
 
