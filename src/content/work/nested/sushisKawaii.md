@@ -9,6 +9,7 @@ tags:
   - HTML
   - CSS
   - Frontend
+  - Responsive design
 ---
 
 ### Création et conception:

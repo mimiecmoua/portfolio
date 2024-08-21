@@ -9,6 +9,7 @@ tags:
   - PHP
   - SQL- PDO
   - Backend
+  - Responsive design
 ---
 
 ## Cuisinea

@@ -9,6 +9,7 @@ tags:
   - HTML
   - CSS
   - javaScript
+  - Responsive design
 ---
 
 ### Création et conception:

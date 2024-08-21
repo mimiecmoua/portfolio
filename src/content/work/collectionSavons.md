@@ -9,6 +9,7 @@ tags:
   - Bootstrap
   - React
   - Redux
+  - Responsive design
 ---
 
 ### Création et conception:

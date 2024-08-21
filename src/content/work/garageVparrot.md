@@ -9,6 +9,7 @@ tags:
   - React.js
   - Symfony
   - EasyAdmin
+  - Responsive design
 ---
 
 ## Garage Vincent Parrot (Projet d'étude)

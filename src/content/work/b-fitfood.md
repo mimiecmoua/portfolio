@@ -10,6 +10,7 @@ tags:
   - Javascript
   - HTML
   - PHP server
+  - Responsive design
 ---
 
 ## Inspiration
