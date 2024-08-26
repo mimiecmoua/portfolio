@@ -1,16 +1,14 @@
 ---
 title: Salle de sport
 publishDate: 2019-10-02 00:00:00
-img: /portfolio/assets/CaptureEcranFitfoodpng.png
+img: /portfolio/assets/capture-RES8.png
 img_alt: Capture d'écran du site FitFood.
 description: |
   Concept sportif, alliez entraînement et nutrition en un seul endroit avec FitFood.
 tags:
   - Sass
   - Javascript
-  - HTML
   - PHP server
-  - Responsive design
 ---
 
 ## Inspiration

@@ -1,16 +1,13 @@
 ---
 title: Site vitrine photographe
 publishDate: 2020-03-04 00:00:00
-img: /portfolio/assets/captureSite2.png
+img: /portfolio/assets/capture-RES5.png
 img_alt: Capture d'écran du site photographe
 description: |
   Un site vitrine élégant et interactif pour un photographe, intégrant des effets de zoom et de parallaxe en JavaScript pour une expérience utilisateur immersive. Le site est entièrement responsive et a été déployé via Netlify pour une accessibilité maximale.
 tags:
-  - HTML
-  - CSS
   - JavaScript
   - GSAP
-  - Reponsive design
 ---
 
 ### Création et conception:

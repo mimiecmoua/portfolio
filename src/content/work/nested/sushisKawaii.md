@@ -1,7 +1,7 @@
 ---
 title: Site vitrine
 publishDate: 2020-03-04 00:00:00
-img: /portfolio/assets/SushiKawaii.png
+img: /portfolio/assets/capture-RES1.png
 img_alt: Capture d'écran du site Shushi Kawaii
 description: |
   J'ai développé un petit site vitrine pour un restaurant de sushis pas comme les autres !
@@ -9,7 +9,6 @@ tags:
   - HTML
   - CSS
   - Frontend
-  - Responsive design
 ---
 
 ### Création et conception:

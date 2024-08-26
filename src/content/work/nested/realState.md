@@ -1,7 +1,7 @@
 ---
 title: Site immobiler
 publishDate: 2020-03-04 00:00:00
-img: /portfolio/assets/Capture-splendimmo.png
+img: /portfolio/assets/capture-RES4.png
 img_alt: Capture d'écran du site splendimmo
 description: |
   Site vitrine de démonstration d'une agence immobilière.
@@ -9,7 +9,6 @@ tags:
   - HTML
   - CSS
   - javaScript
-  - Responsive design
 ---
 
 ### Création et conception:

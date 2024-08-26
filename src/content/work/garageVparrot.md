@@ -1,7 +1,7 @@
 ---
 title: Site adminitrateur
 publishDate: 2023-07-18 00:00:00
-img: /portfolio/assets/AAAA.PNG
+img: /portfolio/assets/capture-RES6.PNG
 img_alt: Capture d'écran du site garage V Parrot.
 description: |
   J'ai créé pour ma soutenance un site web complet pour un garage automobile, offrant à la fois une vitrine en ligne pour les services de réparation, ainsi qu'un espace administrable pour la gestion interne de l'entreprise.
@@ -9,7 +9,6 @@ tags:
   - React.js
   - Symfony
   - EasyAdmin
-  - Responsive design
 ---
 
 ## Garage Vincent Parrot (Projet d'étude)

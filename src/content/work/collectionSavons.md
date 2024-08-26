@@ -1,7 +1,7 @@
 ---
 title: Site e-commerce dynamique
 publishDate: 2020-03-04 00:00:00
-img: /portfolio/assets/boutique-logo.png
+img: /portfolio/assets/capture-RES2.png
 img_alt: Capture d'écran du site Collection savons
 description: |
   Projet e-commerce complet, conçu et développé en utilisant React.js, dédié à la vente de savons.
@@ -9,7 +9,6 @@ tags:
   - Bootstrap
   - React
   - Redux
-  - Responsive design
 ---
 
 ### Création et conception:

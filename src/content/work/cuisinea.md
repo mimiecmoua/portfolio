@@ -1,7 +1,7 @@
 ---
 title: Site d'ajout de recettes de cuisine
 publishDate: 2023-07-18 00:00:00
-img: /portfolio/assets/A-portfolio-cuisinea.png
+img: /portfolio/assets/capture-RES7.png
 img_alt: Capture d'écran du site de recettes de cuisine.
 description: |
   J'ai créé un site de recettes de cuisine permettant aux utilisateurs de s'inscrire et d'ajouter leurs recettes préférées, afin d'obtenir une expérience interactive et collaborative. Ce site offre une véritable source d'inspiration pour tous les amateurs de cuisine. Ce site s'adapte à toutes tailles d'écran.
@@ -9,7 +9,6 @@ tags:
   - PHP
   - SQL- PDO
   - Backend
-  - Responsive design
 ---
 
 ## Cuisinea
