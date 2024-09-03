@@ -1,5 +1,5 @@
 ---
-title: Site immobiler
+title: Site immobilier
 publishDate: 2020-03-04 00:00:00
 img: /portfolio/assets/capture-RES4.png
 img_alt: Capture d'écran du site splendimmo
