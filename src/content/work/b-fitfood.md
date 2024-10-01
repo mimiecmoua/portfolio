@@ -1,5 +1,5 @@
 ---
-title: Salle de sport
+title: Concept de salle de sport innovante
 publishDate: 2019-10-02 00:00:00
 img: /portfolio/assets/capture-RES8.png
 img_alt: Capture d'écran du site FitFood.

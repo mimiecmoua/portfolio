@@ -1,5 +1,5 @@
 ---
-title: Site adminitrateur
+title: Site adminitrateur logiciel interne
 publishDate: 2023-07-18 00:00:00
 img: /portfolio/assets/capture-RES6.png
 img_alt: Capture d'écran du site garage V Parrot.

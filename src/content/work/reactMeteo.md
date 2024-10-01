@@ -1,5 +1,5 @@
 ---
-title: Site d'application météo
+title: Site d'application météo desktop
 publishDate: 2019-12-01 00:00:00
 img: /portfolio/assets/AcptureReactMeteo.png
 img_alt: Capture d'écran de l'application météo.

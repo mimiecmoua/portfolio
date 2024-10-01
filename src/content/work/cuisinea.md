@@ -1,5 +1,5 @@
 ---
-title: Site d'ajout de recettes de cuisine
+title: Site PHP Recettes connectées
 publishDate: 2023-07-18 00:00:00
 img: /portfolio/assets/capture-RES7.png
 img_alt: Capture d'écran du site de recettes de cuisine.

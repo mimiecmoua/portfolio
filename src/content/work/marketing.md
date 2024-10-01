@@ -1,7 +1,7 @@
 ---
 title: Étude Marketing Digital
 publishDate: 2020-03-04 00:00:00
-img: /portfolio/assets/livre-entreprise.jpg
+img: /portfolio/assets/photo2livre.jpg
 img_alt: Capture d'écran livre marketing
 description: |
   J'ai développé des connaisances dans le marketing digital.
@@ -27,10 +27,13 @@ J'ai exploré une variété de livres essentiels, tel que:
 - **Startup, Arrêtons le massacre** : une lecture incontournable pour comprendre les défis et les réalités des startups.
 - **La semaine de 4 Heures** : une réflexion sur l'optimisation du temps et des efforts pour une vie plus équilibrée.
 - **Ces idées qui collent** : une exploration des idées mémorables et des techniques pour les transmettre.
-- **Comprendre et séduire la génération Z** : une exploration des idées mémorables et des techniques pour les transmettre.
+- **Comprendre et séduire la génération Z** : une exploration des idées mémorables et des techniques pour les transmettre, ainsi que la stratégie disruptive.
 - **Comprendre la culture numérique** : une analyse des enjeux et des impacts de la culture numérique sur la société contemporaine.
 - **La culture Web** : un regard sur l'évolution du web et son influence sur nos comportements, nos interactions et notre consommation d'informations.
 - **Introduction à l'économie** : Ce livre offre une exploration claire des concepts économiques fondamentaux, permettant de comprendre les mécanismes de l'économie moderne et leurs implications sur la société.
 - **Guide de l'enquête de terrain** : Cet ouvrage fournit des méthodologies et des outils pratiques pour mener des enquêtes de terrain, en mettant l'accent sur la collecte de données qualitatives et quantitatives.
+- **Comprendre la PNL** : Ce livre explore les principes fondamentaux de la Programmation Neuro-Linguistique, offrant des outils pratiques pour améliorer la communication.
+- **Comment se faire des amis et influencer les autres** : Dale Carnegie présente des principes intemporels pour améliorer les relations humaines, en enseignant comment influencer positivement, communiquer efficacement, et gagner la confiance des autres, des compétences clés pour réussir tant en marketing qu'en leadership.
+- **Le marketing pour les nuls** : une introduction accessible aux concepts clés du marketing, en expliquant comment élaborer des stratégies efficaces, attirer des clients, et maximiser la visibilité d'une entreprise, même pour les débutants.
 
-> Écivez-moi !
+  > Écivez-moi !

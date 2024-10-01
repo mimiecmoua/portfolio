@@ -1,5 +1,5 @@
 ---
-title: Site vitrine boulangerie
+title: Site vitrine boulangerie eXpérience Utilisateur
 publishDate: 2020-03-04 00:00:00
 img: /portfolio/assets/capture-RES3.png
 img_alt: Capture d'écran du site de boulangerie
