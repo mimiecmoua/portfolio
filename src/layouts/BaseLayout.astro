@@ -20,6 +20,16 @@ const { title, description } = Astro.props;
     <MainHead title={title} description={description} />
   </head>
   <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-NS6WSF3F"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"></iframe></noscript
+    >
+    <!-- End Google Tag Manager (noscript) -->
+
     <div class="stack backgrounds">
       <Nav />
       <slot />
