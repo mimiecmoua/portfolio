@@ -26,26 +26,19 @@ const {
 <meta name="generator" content={Astro.generator} />
 <title>{title}</title>
 
-<!-- Google Tag Manager -->
-<script>
-  (function (w: any, d: Document, s: string, l: string, i: string) {
-    w[l] = w[l] || [];
-    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-
-    const f = d.getElementsByTagName(s)[0];
-    const j = d.createElement(s) as HTMLScriptElement; // Ajout du type explicite pour éviter l'erreur
-    const dl = l !== "dataLayer" ? "&l=" + l : "";
-
-    j.async = true; // TypeScript comprend cela avec le cast en HTMLScriptElement
-    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-
-    if (f && f.parentNode) {
-      // Vérification pour éviter une erreur si parentNode est null
-      f.parentNode.insertBefore(j, f);
-    }
-  })(window as any, document, "script", "dataLayer", "GTM-NS6WSF3F");
+<!-- Google Analytics Script -->
+<script
+  async
+  is:inline
+  src="https://www.googletagmanager.com/gtag/js?id=G-4ZVPLS40H2"></script>
+<script is:inline>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    window.dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+  gtag("config", "G-4ZVPLS40H2");
 </script>
-<!-- End Google Tag Manager -->
 
 <link rel="icon" type="image/png" href="/portfolio/assets/logo5.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
