@@ -18,20 +18,6 @@ const {
 } = Astro.props;
 ---
 
-<!-- Google Tag Manager -->
-<script>
-  (function (w, d, s, l, i) {
-    w[l] = w[l] || [];
-    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-    var f = d.getElementsByTagName(s)[0],
-      j = d.createElement(s),
-      dl = l != "dataLayer" ? "&l=" + l : "";
-    j.async = true;
-    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-    f.parentNode.insertBefore(j, f);
-  })(window, document, "script", "dataLayer", "GTM-NS6WSF3F");
-</script>
-<!-- End Google Tag Manager -->
 <meta charset="UTF-8" />
 <meta name="description" property="og:description" content={description} />
 <meta name="viewport" content="width=device-width" />
@@ -39,6 +25,27 @@ const {
 <meta name="author" content={author} />
 <meta name="generator" content={Astro.generator} />
 <title>{title}</title>
+
+<!-- Google Tag Manager -->
+<script>
+  (function (w: any, d: Document, s: string, l: string, i: string) {
+    w[l] = w[l] || [];
+    w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+
+    const f = d.getElementsByTagName(s)[0];
+    const j = d.createElement(s) as HTMLScriptElement; // Ajout du type explicite pour éviter l'erreur
+    const dl = l !== "dataLayer" ? "&l=" + l : "";
+
+    j.async = true; // TypeScript comprend cela avec le cast en HTMLScriptElement
+    j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+
+    if (f && f.parentNode) {
+      // Vérification pour éviter une erreur si parentNode est null
+      f.parentNode.insertBefore(j, f);
+    }
+  })(window as any, document, "script", "dataLayer", "GTM-NS6WSF3F");
+</script>
+<!-- End Google Tag Manager -->
 
 <link rel="icon" type="image/png" href="/portfolio/assets/logo5.png" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
