@@ -6,7 +6,7 @@ img_alt: gif projet nautilus.
 description: |
   🌊 Quand les données de 20.000 lieues sous les mers rencontrent le futur : Prométhée moderne 🚀
 tags:
-  - csv / Json
+  - HTML / Json
   - JupyterLab
   - Python
 ---
