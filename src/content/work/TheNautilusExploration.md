@@ -17,6 +17,8 @@ J'ai redonné vie au Nautilus grâce aux données !
 
 En extrayant les coordonnées géographiques du roman Vingt Mille Lieues sous les mers de Jules Verne, j’ai reconstitué son itinéraire autour du globe.
 
+> Vous pouvez accéder au site en cliquant sur le lien suivant,=> <a href="https://the-nautilus-exploration.netlify.app/">"The Nautilus Exploration"</a>.
+
 ### 💡Comment ? :
 
 📜En relevant toutes les données pertinentes du récit :
