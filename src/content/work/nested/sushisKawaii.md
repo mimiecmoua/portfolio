@@ -1,6 +1,6 @@
 ---
 title: Site vitrine so cute
-publishDate: 2020-03-04 00:00:00
+publishDate: 2024-02-04 00:00:00
 img: /portfolio/assets/capture-RES1.png
 img_alt: Capture d'écran du site Shushi Kawaii
 description: |

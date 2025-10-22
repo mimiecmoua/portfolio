@@ -1,6 +1,6 @@
 ---
 title: Machine Learning Superivsed
-publishDate: 2019-10-02 00:00:00
+publishDate: 2025-04-15 00:00:00
 img: /portfolio/assets/cap-titanic-app2.png
 img_alt: image titanic app
 description: |

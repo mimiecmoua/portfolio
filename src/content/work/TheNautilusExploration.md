@@ -1,6 +1,6 @@
 ---
 title: IA Embarquée
-publishDate: 2019-10-02 00:00:00
+publishDate: 2025-05-23 00:00:00
 img: /portfolio/assets/CaptureNautilus2.png
 img_alt: gif projet nautilus.
 description: |

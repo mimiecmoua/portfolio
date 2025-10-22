@@ -1,6 +1,6 @@
 ---
 title: Projet IA
-publishDate: 2019-10-02 00:00:00
+publishDate: 2025-03-15 00:00:00
 img: /portfolio/assets/projetNautilusGif.gif
 img_alt: gif projet nautilus.
 description: |
