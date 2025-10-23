@@ -1,7 +1,7 @@
 ---
 title: Web App "DigZen" – Manger en conscience (Prototype)
 publishDate: 2025-05-23 00:00:00
-img: /portfolio/assets/Digzen (2).png
+img: /portfolio/assets/digzen.png
 img_alt: DigZen poster
 description: |
   ⏱️ Un chrono et des repères pour apprendre à manger lentement et en pleine conscience.
