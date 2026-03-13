@@ -1,7 +1,7 @@
 ---
-title: Web App "DigZen" – Manger en conscience (Prototype)
+title: Web App "DigZen" – Manger lentement (Prototype)
 publishDate: 2025-05-23 00:00:00
-img: /portfolio/assets/digzen.png
+img: /portfolio/assets/Capture_digzen.png
 img_alt: DigZen poster
 description: |
   ⏱️ Un chrono et des repères pour apprendre à manger lentement et en pleine conscience.
@@ -20,7 +20,7 @@ J'ai créé un support visuel innovant gratuit pour aider à prendre son temps p
 
 ### 💡 Comment ça fonctionne ?
 
-- Un chronomètre fixé sur 20 minutes, le temps moyen nécessaire avant de ressentir la satiété.
+- Un chronomètre fixé sur 20 minutes, le temps moyen nécessaire avant de ressentir le rassasiement.
 - Des phrases guides qui défilent pour accompagner visuellement le repas et répéter les bonnes pratiques afin de renforcer les habitudes alimentaires saines.
 
 ---
@@ -28,6 +28,16 @@ J'ai créé un support visuel innovant gratuit pour aider à prendre son temps p
 ### 🌟 Mon approche 
 
 Cette idée est née de ma propre expérience : j’ai voulu mieux comprendre mes comportements alimentaires et apprendre à ne plus manger mes émotions. DigZen est d’abord un outil pour moi, mais je crois qu’il peut aider beaucoup d’autres personnes à adopter une alimentation plus consciente.
+
+---
+
+### 🧠 Collaboration professionnelle
+
+Digizen a été développé en collaboration avec Laurine Fresquet <a href="https://laurinenutrition.fr/">Consulter le site</a>, nutritionniste exerçant à Béziers, spécialisée en micronutrition et nutrition fonctionnelle.
+
+Son expertise a contribué à structurer une approche centrée sur l’utilisation des phrases guidantes et l’adaptation aux besoins physiologiques.
+
+L’application ne constitue pas un dispositif médical et ne remplace pas une consultation auprès d’un professionnel de santé.
 
 ---
 

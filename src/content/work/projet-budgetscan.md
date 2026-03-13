@@ -4,7 +4,7 @@ publishDate: 2025-10-24 00:00:00
 img: /portfolio/assets/portfolio-projet.png
 img_alt: Adds BudgetScan
 description: |
-  Une app mobile pour calculer votre total avant de passer en caisse.
+  Une application mobile qui calcule votre total avant le passage en caisse, dans tous les magasins.
 tags:
   - Flutter
   - JupyterLab pour IA
